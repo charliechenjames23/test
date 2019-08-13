@@ -1,4 +1,4 @@
-class Test{
+class FastCache{
     constructor(){
         this.list={}
     }
@@ -10,4 +10,4 @@ class Test{
     }
 }
 
-window.Test=Test
+window.FastCache=FastCache
