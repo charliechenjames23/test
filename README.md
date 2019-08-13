@@ -4,6 +4,8 @@ a simple learning progress
 
 ##简介
 
+fast-cache
+
 ##安装下载
 
 ##快速使用
